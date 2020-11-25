@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BotonesConEstilo</string>
+    <string name="text_button">Text Button</string>
+    <string name="outlined_button">Outlined Button</string>
+    <string name="contained_button">Contained Button</string>
+    <string name="button">Button</string>
+    <string name="salir">Salir</string>
+    <string name="opcion_eliminar">Has seleccionado la opción eliminar</string>
+    <string name="opcion_modificar">Has seleccionado la opción modificar</string>
+    <string name="opcion_salir">Has seleccionado la opción salir</string>
+    <string name="hotmail">Hotmail</string>
+    <string name="gmail">Gmail</string>
+    <string name="opcion_gmail">Has elegido la opción Gmail</string>
+    <string name="opcion_hotmail">Has elegido la opción Hotmail</string>
+    <string name="violencia1">La violencia contra las mujeres se ha convertido en un problema estructural</string>
+    <string name="violencia2">Se trata de un problema social presente tanto en el ámbito doméstico como en el público</string>
+    <string name="violencia3">La forma más común de violencia experimentada por mujeres a nivel mundial es la violencia física</string>
+    <string name="violencia4">Todas las anteriores</string>
+    <string name="pregunta">Selecciona la opción que consideres más correcta</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
